@@ -6,12 +6,12 @@
   },
   {
     "name": "about",
-    "src": "images/waves.jpg",
+    "src": "images/waves.jpeg",
     "alt": "blue abstract background"
   },
   {
     "name": "portfolio",
-    "src": "images/clean-room.jpeg",
+    "src": "images/Clean-room.jpeg",
     "alt": "view of clean room"
   }
 ]
